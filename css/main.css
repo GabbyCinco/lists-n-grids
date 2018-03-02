@@ -25,6 +25,10 @@ body {
   margin: 0;
 }
 
+main {
+  padding: .5em;
+}
+
 .img-flex {
   display: block;
   width: 100%;
